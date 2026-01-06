@@ -1,6 +1,6 @@
 # georgiadata.github.io
 
-We've structured GeorgiaData so YOU can contribute. Vibe code integrating all the things you love about Georgia!
+We've structured GeorgiaData so YOU can contribute. Vibe code that integrates all the things you love about Georgia!
 
 [georgiadata.github.io](https://georgiadata.github.io)
 
