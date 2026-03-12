@@ -9,3 +9,5 @@ vibe code that integrates all the things you love about Georgia!
 Have a cool idea? Join in one of our [model.earth meetups](https://model.earth/io/coders)
 
 We vibe with Anthropic Claude and OpenAI Codex.
+
+Contribute to [Trade Flow](https://model.earth/profile/trade/) profiles and [B2B Recycling](https://locations.georgia.org/recycling/georgia/) automation
