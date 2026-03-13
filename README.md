@@ -8,6 +8,6 @@ vibe code that integrates all the things you love about Georgia!
 
 Have a cool idea? Join in one of our [Coding Meetups](https://georgiadata.github.io/io/coders/)
 
-We vibe with Anthropic Claude and OpenAI Codex.
+We vibe with Anthropic Claude, xAI Grok, OpenAI Codex and Gemini.
 
 Contribute to [Trade Flow](https://model.earth/profile/trade/) profiles and [B2B Recycling](https://locations.georgia.org/recycling/georgia/) automation
