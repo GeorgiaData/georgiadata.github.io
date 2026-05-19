@@ -1,0 +1,10 @@
+# SITES — all sites sharing this webroot; default indicates the active site
+default: model.georgia
+
+sites:
+  model.georgia:
+    title: "Model Georgia"
+    base_url: "https://model.georgia.org"
+    domain_contains: "model.georgia,maps.georgia,locations.georgia,georgia.org,locations.pages.dev"
+    favicon: "/localsite/img/logo/states/GA-favicon.png"
+    sideNavLive: false
