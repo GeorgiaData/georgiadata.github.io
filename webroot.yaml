@@ -5,6 +5,6 @@ sites:
   model.georgia:
     title: "Model Georgia"
     base_url: "https://model.georgia.org"
-    domain_contains: "model.georgia,maps.georgia,locations.georgia,georgia.org,locations.pages.dev"
+    domain_contains: "model.georgia,maps.georgia,locations.georgia,georgia.org,locations.pages.dev,georgiadata.github.io"
     favicon: "/localsite/img/logo/states/GA-favicon.png"
     sideNavLive: false
